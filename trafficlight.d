@@ -1,0 +1,10 @@
+.\trafficlight.o: Traffic_Light\TrafficLight.c
+.\trafficlight.o: Traffic_Light\TrafficLight.h
+.\trafficlight.o: Traffic_Light\../timer/timer.h
+.\trafficlight.o: Traffic_Light\../led/led.h
+.\trafficlight.o: C:\Keil\ARM\Inc\NXP\LPC17xx\lpc17xx.h
+.\trafficlight.o: C:\Keil\ARM\CMSIS\Include\core_cm3.h
+.\trafficlight.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+.\trafficlight.o: C:\Keil\ARM\CMSIS\Include\core_cmInstr.h
+.\trafficlight.o: C:\Keil\ARM\CMSIS\Include\core_cmFunc.h
+.\trafficlight.o: C:\Keil\ARM\Inc\NXP\LPC17xx\system_LPC17xx.h
